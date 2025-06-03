@@ -101,12 +101,14 @@ python experiments/rq2/Precision.py
 >- Verify spaCy install: python -c "import spacy; assert spacy.util.is_package('en_core_web_sm')"
 
 ### RQ3:
-
+Purpose: Collect statistics on the types of reported captioning errors
 ```bash
+
 python experiments/rq3/categorys.py
 ```
 
 ### RQ4:
+Purpose: Calculate the overlaps between OAMT and ROME
 ```bash
 python experiments/rq4/show_result.py
 ```
