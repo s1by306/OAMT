@@ -3,14 +3,17 @@ import random
 
 
 from image_cutting.cutline_searching import *
+
 base_dir = 'data/coco_2017/train_2017'
+random.seed(42)
 def get_image_files(directory):
     image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.webp')
     return [(file,os.path.join(directory, file))
             for file in os.listdir(directory)
             if file.lower().endswith(image_extensions)]
-file_tuples = get_image_files(base_dir)
 
+
+file_tuples = get_image_files(base_dir)
 image_paths = [file_tuple[1] for file_tuple in file_tuples]
 sampled_paths = random.sample(image_paths, 200)
 
