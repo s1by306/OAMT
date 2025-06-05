@@ -16,13 +16,11 @@ def score_distribution(scores):
         elif score == 3:
             count_3 += 1
         else:
-            # 如果发现无效评分，抛出异常
-            raise ValueError(f"无效评分值: {score}。只允许1,2,3")
 
-    # 计算总数
+            raise ValueError(f"invalid score: {score}")
+
     total = len(scores)
 
-    # 计算比例（避免除以零错误）
     if total > 0:
         prop_1 = count_1 / total
         prop_2 = count_2 / total
@@ -30,7 +28,6 @@ def score_distribution(scores):
     else:
         prop_1 = prop_2 = prop_3 = 0.0
 
-    # 返回结果
     counts = (count_1, count_2, count_3)
     proportions = (prop_1, prop_2, prop_3)
 
@@ -42,5 +39,6 @@ scores_f = read_scores('score_f')
 
 kappa = cohen_kappa_score(scores_p1, scores_p2)
 counts, proportions, total = score_distribution(scores_f)
-print(f"Cohen's Kappa: {kappa:.4f}")
-print(proportions)
+with open('../rq_results/integrity_score','w') as f:
+    print(f"Cohen's Kappa: {kappa:.4f}",file=f)
+    print(proportions,file=f)

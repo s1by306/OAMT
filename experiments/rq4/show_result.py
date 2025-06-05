@@ -3,6 +3,10 @@ import matplotlib.patches as patches
 
 
 
+
+
+
+# draw the venn
 plt.rcParams['font.family'] = 'serif'
 plt.rcParams['font.serif'] = ['Times New Roman']
 plt.rcParams['font.weight'] = 'bold'
@@ -46,7 +50,7 @@ legend = fig.legend(handles=[oamt_patch, rome_patch],
                     fontsize=20,
                     frameon=False,
                     bbox_to_anchor=(0.5, 0.01),
-                    prop={'family': 'Times New Roman', 'weight': 'bold','size':20})  # 设置字体属性
+                    prop={'family': 'Times New Roman', 'weight': 'bold','size':20})
 
 
 plt.tight_layout()

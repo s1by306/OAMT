@@ -80,6 +80,8 @@ python experiments/rq1/cropped_sample.py
 python experiments/integrity.py
 ```
 > **Note**: First run will download **facebook/detr-resnet-50** from Hugging Face. Monitor download progress in terminal.
+
+Then the results will be saved in experiments/rq_results/integrity_score
 ### RQ2:
 Purpose: report issues and precision
 
@@ -100,15 +102,28 @@ python experiments/rq2/Precision.py
 >- First report_issues.py run downloads microsoft/deberta-large-mnli
 >- Verify spaCy install: python -c "import spacy; assert spacy.util.is_package('en_core_web_sm')"
 
+Then the results will be saved in experiments/rq_results/Precision and experiments/rq_results/issues
 ### RQ3:
 Purpose: Collect statistics on the types of reported captioning errors
 ```bash
-
 python experiments/rq3/categorys.py
 ```
+Then the results will be saved in experiments/rq_results/error_distribution
 
 ### RQ4:
 Purpose: Calculate the overlaps between OAMT and ROME
+Requirements:
+
+- Internet connection
+
+- ~60GB disk space
+
+
 ```bash
-python experiments/rq4/show_result.py
-```
+git clone https://github.com/RobustNLP/TestIC.git
+... #run ROME from the step of https://github.com/RobustNLP/TestIC/blob/main/ROME/README.md
+python experiments/rq2/report_issues.py
+python experiments/rq4/overlap.py
+``` 
+Then the results will be saved in experiments/rq_results/overlap.pdf
+

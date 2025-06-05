@@ -3,259 +3,295 @@
 [('pattern', '', 'singular'), ('rock wall', '', 'singular')]
 ('a group of people watching two black bears in a zoo.', 'a black bear is standing in the grass.', 'a rock wall with a mossy pattern on it.')
 http://images.cocodataset.org/train2017/000000495199.jpg
-0 0
+0 0 om om
+om
 [('horse', 'stand on top of a lush green field', 'plural')]
 [('field', '', 'singular'), ('flower', '', 'plural'), ('horse', 'graze in a field ', 'plural')]
 [('hillside', '', 'singular'), ('horse', 'graze on a lush green hillside ', 'plural')]
 ('a group of horses standing on top of a lush green field.', 'three horses grazing in a field with yellow flowers.', 'two horses grazing on a lush green hillside.')
 http://images.cocodataset.org/train2017/000000465647.jpg
-1 1
+1 1 ~ ~
 [('people', 'skateboard down a city street ', 'plural')]
 [('coat', '', 'singular'), ('sidewalk', '', 'singular'), ('woman', 'walk down a sidewalk ', 'singular'), ('hat', 'walk down a sidewalk ', 'singular')]
 [('skateboard', '', 'singular'), ('sidewalk', '', 'singular'), ('boy', 'ride a skateboard', 'singular')]
 ('two young people skateboarding down a city street.', 'a woman in a coat and hat is walking down a sidewalk.', 'a young boy riding a skateboard down a sidewalk.')
 http://images.cocodataset.org/train2017/000000443592.jpg
-0 0
+0 0 om om
+om
 [('man', 'drink wine from a wine glass ', 'plural')]
 [('wine', '', 'singular'), ('table', '', 'singular'), ('bottle', '', 'plural'), ('wine', '', 'singular'), ('man', 'drink wine at a table ', 'singular')]
 [('wine bottle', '', 'singular'), ('man', 'drink from a wine bottle ', 'singular')]
 ('two men drinking wine from a wine glass.', 'a man drinking wine at a table with bottles of wine.', 'a man drinking from a wine bottle.')
 http://images.cocodataset.org/train2017/000000224388.jpg
-0 0
+0 0 om a
+om
 [('people', 'sit on a bench ', 'plural')]
 [('child', '', 'singular'), ('woman', 'stand', 'singular')]
 [('group', '', 'singular'), ('bench', '', 'singular'), ('people', 'stand around a wooden bench ', 'plural')]
 ('a group of people sitting on a bench.', 'a woman standing next to a small child.', 'a group of people standing around a wooden bench.')
 http://images.cocodataset.org/train2017/000000195645.jpg
-0 0
+0 0 a a
+a
 [('plier', '', 'plural')]
 [('close', '', 'singular'), ('table', '', 'singular'), ('wood', '', 'singular')]
 [('pair', '', 'singular'), ('top', '', 'singular'), ('table', '', 'singular'), ('scissor', 'sit on top of a table', 'plural')]
 ('a pair of pliers with a pair of scissors.', 'a close up of some wood on a table', 'a pair of scissors sitting on top of a table.')
 http://images.cocodataset.org/train2017/000000528119.jpg
-0 0
+0 0 om om
+om
 [('giraffe', 'stand under a tree ', 'plural')]
 [('tree', '', 'singular'), ('leave', '', 'plural')]
 [('tree', '', 'singular'), ('zoo', '', 'singular'), ('giraffe', 'stand under a tree ', 'singular')]
 ('three giraffes standing under a tree in a field.', 'green leaves in brown tree', 'a giraffe standing under a tree in a zoo.')
 http://images.cocodataset.org/train2017/000000172285.jpg
-0 0
+0 0 oo oo
+oo
 [('people', 'ride horses down a walkway ', 'plural')]
 [('flower', '', 'plural'), ('bush', '', 'singular')]
 [('horse', '', 'singular'), ('path', '', 'singular'), ('woman', 'ride a horse down a path ', 'singular')]
 ('a group of people riding horses down a walkway.', 'a bush with red flowers', 'a woman riding a horse down a path.')
 http://images.cocodataset.org/train2017/000000555299.jpg
-1 1
+1 1 ~ ~
 [('bird', 'swim in water ', 'plural')]
 [('body', '', 'singular'), ('water', '', 'singular'), ('person', 'swim in water ', 'singular')]
 [('body', '', 'singular'), ('water', '', 'singular'), ('algae', '', 'singular'), ('person', '', 'singular')]
 ('a group of birds are swimming in a body of water.', 'a person swimming in a body of water.', 'a person in a body of water with algae.')
 http://images.cocodataset.org/train2017/000000233956.jpg
-0
+0 0 om om
+om
 [('elephant', 'fight with each other ', 'plural')]
 [('field', '', 'singular'), ('tree', '', 'plural'), ('background', '', 'singular'), ('elephant', 'stand in a field ', 'plural')]
 [('trunk', '', 'plural'), ('elephant', 'touch trunks', 'plural')]
 ('two elephants are fighting with each other.', 'two elephants are standing in a field with trees in the background.', 'two elephants are touching their trunks together.')
 http://images.cocodataset.org/train2017/000000340305.jpg
-0.5 0.5
+0.5 0.5 a a
+a
 [('vase', 'sit on top of a table', 'plural')]
 [('table', '', 'singular'), ('painting', '', 'singular'), ('bowl', 'sit on a table ', 'plural')]
 [('shelf', '', 'singular'), ('painting', '', 'singular'), ('vase', 'sit on a shelf ', 'plural')]
 ('a group of white vases sitting on top of a table.', 'two white bowls sitting on a table next to a painting.', 'three white vases sitting on a shelf next to a painting.')
 http://images.cocodataset.org/train2017/000000460986.jpg
-0 0
+0 0 om om
+om
 [('people', 'ride on the back of a bicycle', 'plural')]
 [('bicycle', '', 'singular'), ('street', '', 'singular'), ('man', 'ride a bicycle down a busy street ', 'singular')]
 [('orange shirt', '', 'singular'), ('horse', '', 'singular'), ('carriage', '', 'singular'), ('man', 'ride a drawn carriage', 'singular')]
 ('a group of people riding on the back of a bicycle.', 'a man riding a bicycle down a busy street.', 'a man in an orange shirt riding a horse drawn carriage.')
 http://images.cocodataset.org/train2017/000000286888.jpg
-0 0
+0 0 om om
+om
 [('horse', 'graze in a fenced ', 'plural')]
 [('herd', '', 'singular'), ('field', '', 'singular'), ('cattle', 'graze in a field ', 'plural')]
 [('herd', '', 'singular'), ('top', '', 'singular'), ('field', '', 'singular'), ('cattle', 'stand on top of a lush green field', 'plural')]
 ('a herd of horses grazing in a fenced in area.', 'a herd of cattle grazing in a field.', 'a herd of cattle standing on top of a lush green field.')
 http://images.cocodataset.org/train2017/000000576200.jpg
-0 0
+0 0 om om
+om
 [('zebra', 'stand in a dirt field ', 'plural')]
 [('top', '', 'singular'), ('dirt field', '', 'singular'), ('zebra', 'stand on top of a dirt field', 'singular')]
 [('dirt field', '', 'singular'), ('fence', '', 'singular'), ('zebra', 'walk around a dirt field ', 'singular')]
 ('two zebras are standing in a dirt field.', 'a zebra standing on top of a dirt field.', 'a zebra walking around a dirt field next to a fence.')
 http://images.cocodataset.org/train2017/000000288372.jpg
-1 1
+1 1 ~ ~
 [('people', 'hold stuffed animals', 'plural')]
 [('table', '', 'singular'), ('teddy bear', '', 'singular'), ('woman', 'bend over a table ', 'singular')]
 [('child', '', 'singular'), ('teddy bear', '', 'singular'), ('woman', 'hold a child', 'singular')]
 ('a group of people holding stuffed animals and a teddy bear.', 'a woman bending over a table holding a teddy bear.', 'a woman holding a child and a teddy bear.')
 http://images.cocodataset.org/train2017/000000436333.jpg
-0 0
+0 0 om om
+om
 [('statue', 'sit on top of a table', 'plural')]
 [('cat statue', '', 'singular'), ('motorcycle', '', 'singular')]
 [('character', '', 'plural'), ('vase', '', 'singular')]
 ('a group of animal shaped statues sitting on top of a table.', 'a motorcycle with a blue and white cat statue on it.', 'a large vase with chinese characters on it.')
 http://images.cocodataset.org/train2017/000000376266.jpg
-0 0
+0 0 om om
+om
 [('people', 'parasaile in the ocean ', 'plural')]
 [('group', '', 'singular'), ('lake', '', 'singular'), ('people', 'parasaile on a lake ', 'plural')]
 [('background', '', 'singular'), ('mountain range', '', 'singular')]
 ('a group of people parasailing in the ocean.', 'a group of people parasailing on a lake.', 'a mountain range in the background.')
 http://images.cocodataset.org/train2017/000000351127.jpg
-0 0
+0 0 om om
+om
 [('people', 'stand in front of a red food truck', 'plural')]
 [('side', '', 'singular'), ('road', '', 'singular'), ('food truck', '', 'singular')]
 [('group', '', 'singular'), ('tent', '', 'singular'), ('people', 'stand around a tent ', 'plural')]
 ('a group of people standing in front of a red food truck.', 'a red food truck parked on the side of a road.', 'a group of people standing around a tent.')
 http://images.cocodataset.org/train2017/000000535183.jpg
-1 1
+1 1 ~ ~
 [('woman', 'stand in a garden ', 'plural')]
 [('boy', '', 'plural'), ('train', '', 'singular'), ('photo', '', 'singular')]
 [('vest', '', 'singular'), ('tie', '', 'singular'), ('man', 'wear a vest', 'singular')]
 ('three women standing next to each other in a garden.', 'a black and white photo of two boys on a train.', 'a man wearing a vest and tie standing next to another man.')
 http://images.cocodataset.org/train2017/000000072731.jpg
-0 0
+0 0 om om
+om
 [('people', 'stand on top of a covered field', 'plural')]
 [('desert', '', 'singular'), ('kite', '', 'singular'), ('man', 'walk across a desert ', 'singular')]
 [('group', '', 'singular'), ('top', '', 'singular'), ('beach', '', 'singular'), ('people', 'stand on top of a sandy beach', 'plural')]
 ('a group of people standing on top of a snow covered field.', 'a man walking across a desert with a colorful kite.', 'a group of people standing on top of a sandy beach.')
 http://images.cocodataset.org/train2017/000000322007.jpg
-0 0
+0 0 a a
+a
 [('tie', 'hang from a clothes line ', 'plural')]
 [('wall', '', 'singular'), ('tie', 'hang on a wooden wall ', 'singular')]
 [('pair', '', 'singular'), ('wall', '', 'singular'), ('tie', 'hang on a wooden wall ', 'plural')]
 ('two ties hanging from a clothes line', 'a white and red tie hanging on a wooden wall.', 'a pair of white and pink ties hanging on a wooden wall.')
 http://images.cocodataset.org/train2017/000000391116.jpg
-0 0
+0 0 om om
+om
 [('giraffe', 'stand in a zoo enclosure ', 'plural')]
 [('woman', '', 'singular'), ('field', '', 'singular'), ('man', 'stand', 'singular')]
 [('wood', '', 'plural'), ('dog', '', 'singular'), ('tree', '', 'singular')]
 ('three giraffes standing in a zoo enclosure.', 'a man standing next to a woman in a field.', 'a tree that is in the woods with a dog.')
 http://images.cocodataset.org/train2017/000000080974.jpg
-0 0
+0 0 om om
+om
 [('pepper', 'hang from a vine ', 'plural')]
 [('car', '', 'singular'), ('window', '', 'singular')]
 [('bunch', '', 'singular'), ('kitchen counter', '', 'singular'), ('pepper', 'hang from a kitchen counter ', 'plural')]
 ('a bunch of red peppers hanging from a vine.', 'a window with a car outside of it.', 'a bunch of red peppers hanging from a kitchen counter.')
 http://images.cocodataset.org/train2017/000000302026.jpg
-0 0
+0 0 om om
+om
 [('train', 'sit', 'plural')]
 [('train station', '', 'singular'), ('train', 'park in a train station ', 'singular')]
 [('garage', '', 'singular'), ('train', 'park in a garage ', 'singular')]
 ('a group of trains sitting inside of a building.', 'a train is parked in a train station.', 'a train is parked in a garage.')
 http://images.cocodataset.org/train2017/000000451312.jpg
-0 0.5
+0 0.5 a a
+a
 [('scooter', 'line in a row ', 'plural')]
 [('group', '', 'singular'), ('motorcycle', '', 'plural'), ('people', 'sit on some small motorcycles ', 'plural')]
 [('shirt', '', 'singular'), ('purse', '', 'singular'), ('woman', '', 'singular')]
 ('a row of colorful scooters lined up in a row.', 'a group of people sitting on some small motorcycles.', 'a woman in a blue shirt and a black purse')
 http://images.cocodataset.org/train2017/000000307499.jpg
-0 0
+0 0 a a
+a
 [('elephant', 'walk across a river bed ', 'plural')]
 [('herd', '', 'singular'), ('field', '', 'singular'), ('elephant', 'walk across a muddy field ', 'plural')]
 [('herd', '', 'singular'), ('field', '', 'singular'), ('elephant', 'walk across a dry field ', 'plural')]
 ('a herd of elephants walking across a dry river bed.', 'a herd of elephants walking across a muddy field.', 'a herd of elephants walking across a dry field.')
 http://images.cocodataset.org/train2017/000000094502.jpg
-0 1
+0 1 om ~
 [('people', 'walk down a path ', 'plural')]
 [('bird house', '', 'singular'), ('middle', '', 'singular'), ('tree', '', 'singular')]
 [('bench', '', 'singular'), ('tree', '', 'singular'), ('person', 'sit on a bench ', 'singular')]
 ('a couple of people walking down a path.', 'a tree with a bird house in the middle of it.', 'a person sitting on a bench under a tree.')
 http://images.cocodataset.org/train2017/000000006764.jpg
-0 0
+0 0 a a
+a
 [('bear', 'play in a zoo ', 'plural')]
 [('rock', '', 'singular'), ('zoo', '', 'singular'), ('bear', 'sit on a rock ', 'singular')]
 [('area', '', 'singular'), ('bear', 'walk on a rocky area ', 'singular')]
 ('two black bears are playing in a zoo.', 'a bear sitting on a rock in a zoo.', 'a black bear walking on a rocky area.')
 http://images.cocodataset.org/train2017/000000102057.jpg
-1 1
+1 1 ~ ~
 [('police officer', 'ride motorcycles down a street ', 'plural')]
 [('group', '', 'singular'), ('bike', '', 'plural'), ('street', '', 'singular'), ('people', 'ride bikes down a street ', 'plural')]
 [('group', '', 'singular'), ('motorcycle', '', 'plural'), ('street', '', 'singular'), ('people', 'park on the street ', 'plural')]
 ('a line of police officers riding motorcycles down a street.', 'a group of people riding bikes down a street.', 'a group of people on motorcycles are parked on the street.')
 http://images.cocodataset.org/train2017/000000337886.jpg
-0 0
+0 0 a a
+a
 [('man', 'stand on top of a lush green field', 'plural')]
 [('group', '', 'singular'), ('bench', '', 'singular'), ('man', 'stand around a wooden bench ', 'plural')]
 [('hat', '', 'singular'), ('park', '', 'singular'), ('man', 'stand in a park ', 'singular')]
 ('a group of men standing on top of a lush green field.', 'a group of men standing around a wooden bench.', 'a man in a hat standing in a park.')
 http://images.cocodataset.org/train2017/000000449613.jpg
-0 0
+0 0 om om
+om
 [('woman', 'open presents in a living room ', 'plural')]
 [('present', '', 'plural'), ('living', '', 'singular'), ('room', '', 'singular'), ('woman', 'open presents in a living room ', 'singular')]
 [('floor', '', 'singular'), ('dog', '', 'singular'), ('couch', '', 'singular'), ('woman', 'sit on the floor ', 'singular')]
 ('two women opening presents in a living room.', 'a woman opening presents in a living room.', 'a woman sitting on the floor with a dog and a couch.')
 http://images.cocodataset.org/train2017/000000279138.jpg
-0 0
+0 0 a a
+a
 [('people', 'stand around a long table ', 'plural')]
 [('food', '', 'singular'), ('table', '', 'singular')]
 [('person', 'sit', 'singular')]
 ('a group of people standing around a long table.', 'a long table with food on it', 'a person is sitting down')
 http://images.cocodataset.org/train2017/000000243021.jpg
-0 0
+0 0 oo a
+oo
 [('people', 'stand around a table ', 'plural')]
 [('dress', '', 'singular'), ('ribbon', '', 'singular'), ('woman', 'cut a ribbon', 'singular')]
 [('shirt', '', 'singular'), ('ribbon', '', 'singular'), ('man', 'cut a ribbon', 'singular')]
 ('a group of people standing around a table with a ribbon.', 'a woman in a floral dress cutting a ribbon.', 'a man in a white shirt cutting a ribbon.')
 http://images.cocodataset.org/train2017/000000080654.jpg
-0 0
+0 0 a a
+a
 [('child', 'hold umbrellas in front of a building', 'plural')]
 [('umbrella', '', 'singular'), ('child', 'hold an umbrella', 'singular')]
 [('umbrella', '', 'singular'), ('front', '', 'singular'), ('dog', '', 'singular'), ('girl', 'hold an umbrella dog', 'singular')]
 ('two children holding umbrellas in front of a building.', 'a child holding an umbrella.', 'a little girl holding an umbrella in front of a dog.')
 http://images.cocodataset.org/train2017/000000452619.jpg
-0.5 0.5
+0.5 0.5 om om
+om
 [('people', 'stand', 'plural')]
 [('picture', '', 'singular'), ('whale', '', 'singular'), ('man', 'take a large black whale', 'singular'), ('woman', 'take a large black whale', 'singular')]
 [('group', '', 'singular'), ('sidewalk', '', 'singular'), ('people', 'walk on a sidewalk ', 'plural')]
 ('a couple of people standing next to a black jet.', 'a man and woman taking a picture of a large black whale.', 'a group of people walking on a sidewalk.')
 http://images.cocodataset.org/train2017/000000531778.jpg
-0 0
+0 0 a a
+a
 [('people', 'walk down a street ', 'plural')]
 [('window', '', 'singular'), ('middle', '', 'singular'), ('building', '', 'singular')]
 [('building', '', 'singular'), ('city street', '', 'singular'), ('clock', '', 'singular')]
 ('a crowd of people walking down a street.', 'a building with a window in the middle of it', 'a clock on a building on a city street.')
 http://images.cocodataset.org/train2017/000000206757.jpg
-0 0
+0 0 oo oo
+oo
 [('people', 'walk around a dirt field ', 'plural')]
 [('bunch', '', 'singular'), ('luggage', '', 'singular'), ('trailer', '', 'singular')]
 [('top', '', 'singular'), ('runway', '', 'singular'), ('plane', 'sit on top of a runway', 'singular')]
 ('a group of people walking around a dirt field.', 'a blue trailer with a bunch of luggage on it', 'a small white plane sitting on top of a runway.')
 http://images.cocodataset.org/train2017/000000025105.jpg
-0 0
+0 0 a a
+a
 [('man', 'play frisbee in a field ', 'plural')]
 [('air', '', 'singular'), ('man', 'jump in the air ', 'singular')]
 [('group', '', 'singular'), ('game', '', 'singular'), ('soccer', '', 'singular'), ('people', 'play soccer', 'plural')]
 ('three young men playing frisbee in a field.', 'a man is jumping up in the air.', 'a group of people playing a game of soccer.')
 http://images.cocodataset.org/train2017/000000514777.jpg
-0 0
+0 0 a a
+a
 [('giraffe', 'stand in the brush ', 'plural')]
 [('field', '', 'singular'), ('tree', '', 'singular')]
 [('grass', '', 'singular'), ('tree', '', 'singular'), ('giraffe', 'stand in the grass ', 'plural')]
 ('three giraffes standing in the brush near a tree.', 'a tree in a field', 'two giraffes standing in the grass near a tree.')
 http://images.cocodataset.org/train2017/000000282987.jpg
-0 0
+0 0 om om
+om
 [('soccer player', 'run after a ball ', 'plural')]
 [('soccer field', '', 'singular'), ('soccer ball', '', 'singular'), ('man', 'run on a soccer field ', 'singular')]
 [('field', '', 'singular'), ('soccer player', 'stand on a field ', 'singular')]
 ('two soccer players are running after a ball.', 'a man running on a soccer field with a soccer ball.', 'a soccer player is standing on a field.')
 http://images.cocodataset.org/train2017/000000118827.jpg
-0 0
+0 0 a a
+a
 [('people', 'stand in front of a store', 'plural')]
 [('store', '', 'singular'), ('bike', 'park', 'singular')]
 [('group', '', 'singular'), ('street', '', 'singular'), ('people', 'walk down a street ', 'plural')]
 ('a group of people standing in front of a store.', 'a bike is parked inside of a store.', 'a group of people walking down a street.')
 http://images.cocodataset.org/train2017/000000401225.jpg
-0 0
+0 0 a a
+a
 [('cow', 'tie to a wire fence ', 'plural')]
 [('group', '', 'singular'), ('field', '', 'singular'), ('cow', 'stand in a field ', 'plural')]
 [('herd', '', 'singular'), ('cow', 'stand', 'plural')]
 ('a herd of cows tied to a wire fence.', 'a group of cows standing in a field.', 'a herd of cows standing next to each other.')
 http://images.cocodataset.org/train2017/000000374956.jpg
-0 1
+0 1 ~ oo
 [('people', 'stand around a table ', 'plural')]
 [('uniform', '', 'singular'), ('sidewalk', '', 'singular'), ('man', 'walk down a sidewalk ', 'singular')]
 [('cake', '', 'singular'), ('knife', '', 'singular'), ('woman', 'cut a cake with a knife ', 'singular')]
 ('a group of people standing around a table with a cake.', 'a man in a military uniform walking down a sidewalk.', 'a woman cutting a cake with a knife.')
 http://images.cocodataset.org/train2017/000000421315.jpg
-0 0
+0 0 a a
+a
 [('people', 'stand around a wooden table ', 'plural')]
 [('box', '', 'singular'), ('top', '', 'singular'), ('table', '', 'singular'), ('red box', 'sit on top of a table', 'singular')]
 [('group', '', 'singular'), ('skateboard', '', 'singular'), ('people', 'stand around a skateboard ', 'plural')]
